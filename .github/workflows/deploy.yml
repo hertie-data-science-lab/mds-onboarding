@@ -6,9 +6,9 @@ on:
   # Rebuild when the shared theme changes (dispatched by dsl-jekyll-theme).
   repository_dispatch:
     types: [theme-updated]
-  # Weekly backstop so theme changes propagate even without a dispatch.
+  # Monthly backstop so theme changes propagate even if a dispatch is missed.
   schedule:
-    - cron: "0 5 * * 1"
+    - cron: "0 5 1 * *"
   workflow_dispatch:
 
 permissions:

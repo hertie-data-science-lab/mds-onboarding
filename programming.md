@@ -13,7 +13,7 @@ Data science is a demanding (and rewarding) field that rewards personal drive an
 
 DataQuest is organised into **learning paths**. Three are most relevant to you — we recommend starting with **Data Scientist in Python** and **Data Analyst in R** to refresh the essential foundational coding skills before the semester begins.
 
-<ul class="card-grid card-grid--3">
+<ul class="card-grid">
   <li class="dsl-card">
     <span class="dsl-card__label">Recommended</span>
     <h3>Data Scientist in Python</h3>
@@ -54,7 +54,7 @@ If you are at a more **advanced level** in Python and R and want to explore othe
 
 A question that comes up often is why the MDS programme focuses on **two** programming languages, when Python clearly leads the pack as the default language in machine learning, deep learning and many other data and DevOps workflows. There are a few reasons:
 
-<ul class="card-grid card-grid--3">
+<ul class="card-grid">
   <li class="dsl-card">
     <p><strong>R is still superior for statistics.</strong> It remains the stronger language for building statistical models, with a robust ecosystem of packages maintained by scientists and statisticians — an area where Python still lags.</p>
   </li>

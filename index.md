@@ -34,7 +34,7 @@ As an MDS student you receive **premium licences for two excellent self-learning
 
 Work through the two main sections at your own pace. Each is a single page you can scroll top to bottom:
 
-<ul class="card-grid card-grid--3">
+<ul class="card-grid">
   <li class="dsl-card">
     <h4>1 · Programming</h4>
     <p>Get set up in Python and R on DataQuest, and understand why the programme teaches both.</p>
