@@ -1,0 +1,56 @@
+name: Deploy onboarding site
+
+on:
+  push:
+    branches: [main, master]
+  # Rebuild when the shared theme changes (dispatched by dsl-jekyll-theme).
+  repository_dispatch:
+    types: [theme-updated]
+  # Weekly backstop so theme changes propagate even without a dispatch.
+  schedule:
+    - cron: "0 5 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - id: pages
+        uses: actions/configure-pages@v4
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.2"
+          bundler-cache: true
+
+      - name: Build site
+        env:
+          JEKYLL_ENV: production
+          # jekyll-remote-theme / jekyll-github-metadata need a token to fetch
+          # the theme repo and resolve metadata.
+          PAGES_REPO_NWO: ${{ github.repository }}
+          JEKYLL_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+
+      - uses: actions/upload-pages-artifact@v3
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,16 @@
+items:
+- url: /
+  name: Home
+  icon_class: fa fa-home fa-lg
+
+- url: /programming/
+  name: Programming
+  icon_class: fas fa-code
+
+- url: /mathematics/
+  name: Mathematics
+  icon_class: fas fa-square-root-alt
+
+- url: /resources/
+  name: Resources
+  icon_class: fas fa-book

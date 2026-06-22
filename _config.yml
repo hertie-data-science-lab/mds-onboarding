@@ -1,0 +1,47 @@
+# ============================================================
+# MDS First-Year Prep — onboarding site for incoming MDS students
+# ============================================================
+# Visual theme is inherited from the shared DSL theme (edit colours there).
+# Content lives in the page files; per-cohort values are below.
+
+# --- Shared theme ---
+remote_theme: hertie-data-science-lab/dsl-jekyll-theme
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+
+# --- Site identity (used by the shared header/title) ---
+course_name: "MDS First-Year Prep"
+course_description: "Get ready for your first year of the Master of Data Science at the Hertie School."
+course_semester: "2026 Entry"
+github_org: "hertie-data-science-lab"
+
+# --- Institution ---
+schoolname: "Hertie School"
+schoolurl: "https://hertie-school.org/en/datasciencelab"
+dsl_org_url: "https://github.com/hertie-data-science-lab"
+address: |
+    Data Science Lab
+    Hertie School
+    Friedrichstraße 180
+    10117 Berlin, Germany
+
+# --- Per-cohort values (one-line yearly updates) ---
+# The shared Brilliant classroom invite (covers both the Maths and Statistics courses).
+brilliant_join_url: "https://brilliant.org/classroom/join-v2/ede114de-afb7-4099-ba2a-d1e5e890c86f"
+
+# --- Project-page paths (Pages served under /mds-onboarding) ---
+baseurl: "/mds-onboarding"
+url: "https://hertie-data-science-lab.github.io"
+
+# --- Build ---
+markdown: kramdown
+permalink: pretty
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
+  - README.md
+  - .bundle
