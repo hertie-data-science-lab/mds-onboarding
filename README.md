@@ -1,10 +1,10 @@
 # mds-onboarding
 
-The **MDS First-Year Prep** site — a single-scroll-per-page guide that helps incoming
-Master of Data Science students at the [Hertie School Data Science Lab](https://github.com/hertie-data-science-lab)
+The **MDS First-Year Prep** site - a GH pages guide that helps incoming
+Master of Data Science & AI (MDS) students at the [Hertie School Data Science Lab](https://github.com/hertie-data-science-lab)
 prepare in **programming** and **mathematics** before the programme begins.
 
-Live (once published): **https://hertie-data-science-lab.github.io/mds-onboarding/**
+Live site: **https://hertie-data-science-lab.github.io/mds-onboarding/**
 
 ## What's here
 
@@ -19,16 +19,16 @@ Navigation is defined in `_data/nav.yml`.
 
 ## Editing content
 
-Edit the Markdown pages directly — content is separate from presentation. The visual
+Edit the Markdown pages directly - content is separate from presentation. The visual
 theme (layout, colours, components) is inherited from the shared
 [`dsl-jekyll-theme`](https://github.com/hertie-data-science-lab/dsl-jekyll-theme) via
 `remote_theme` in `_config.yml`; restyling happens there, not here.
 
 **Yearly updates** live at the top of `_config.yml`:
 
-- `brilliant_join_url` — the Brilliant classroom invite (covers both Maths and Statistics
+- `brilliant_join_url` - the Brilliant classroom invite (covers both Maths and Statistics
   courses). Confirm the current cohort's invite before publishing.
-- `course_semester` — e.g. `2026 Entry`.
+- `course_semester` - e.g. `2026 Entry`.
 
 ## Local preview
 
