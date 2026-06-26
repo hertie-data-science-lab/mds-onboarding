@@ -14,9 +14,8 @@ For the full picture of what the course covers and assumes, see the syllabus - a
     <span class="dsl-card__label">Syllabus</span>
     <h3>Mathematics for Data Science</h3>
     <p>The topics the course reviews and expands on, and what it assumes you arrive with.</p>
-    <!-- TODO: add assets/syllabi/mathematics-for-data-science-2026.pdf, then activate by replacing the span below with:
-         <a class="btn" href="{{ '/assets/syllabi/mathematics-for-data-science-2026.pdf' | relative_url }}">Open syllabus (PDF)</a> -->
-    <div class="dsl-card__foot"><span style="opacity:.55;font-weight:600">Coming soon</span></div>
+    <!-- DUMMY: placeholder PDF for workflow mock-up; replace with the real syllabus -->
+    <div class="dsl-card__foot"><a class="btn" href="{{ '/assets/syllabi/mathematics-for-data-science-2026.pdf' | relative_url }}">Open syllabus (PDF)</a></div>
   </li>
 </ul>
 
@@ -44,6 +43,11 @@ A strong theoretical foundation in mathematics helps you cultivate the intuition
 ## Two ways to approach maths
 
 Everyone learns differently. Both of these approaches work - pick whichever suits you, or mix them.
+
+<style>
+  .approach { transition: box-shadow .15s ease, transform .15s ease; }
+  .approach:hover { box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08); transform: translateY(-2px); }
+</style>
 
 <div class="two-approaches">
   <div class="approach">
