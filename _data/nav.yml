@@ -9,7 +9,7 @@ items:
 
 - url: /mathematics/
   name: Mathematics
-  icon_class: fas fa-square-root-alt
+  icon_class: fas fa-calculator
 
 - url: /resources/
   name: Resources
