@@ -19,16 +19,16 @@ This preparation package gathers the materials your first-year courses are built
 
 Before teaching begins, the **summer bootcamp** brings everyone up to a common baseline and is the clearest picture of where your courses start from.
 
-<!-- TODO: 2–3 sentences on what the summer bootcamp covers (topics, languages, format). -->
+<!-- DUMMY: placeholder blurb for workflow mock-up; replace with the real bootcamp description -->
+Over two weeks it covers the essentials you will lean on from day one: working in R and Python, the command line and Git, data wrangling and visualisation, and a first look at the statistics and linear algebra the courses build on. Sessions pair short lectures with hands-on labs, so you arrive already comfortable with the tools.
 
 <ul class="card-grid card-grid--2">
   <li class="dsl-card">
     <span class="dsl-card__label">Bootcamp</span>
     <h3>Summer bootcamp materials</h3>
     <p>Last year's materials give a good sense of the topics covered and the level expected.</p>
-    <!-- TODO: activate by replacing the span below with:
-         <a class="btn" href="BOOTCAMP_MATERIALS_URL">View materials</a> -->
-    <div class="dsl-card__foot"><span style="opacity:.55;font-weight:600">Coming soon</span></div>
+    <!-- DUMMY: placeholder link for workflow mock-up; replace with the real materials URL -->
+    <div class="dsl-card__foot"><a class="btn" href="{{ '/assets/bootcamp/summer-bootcamp-2025-materials.pdf' | relative_url }}">View materials</a></div>
   </li>
 </ul>
 
@@ -47,9 +47,8 @@ These are the materials **featured on your course syllabi** - the books and refe
     <span class="dsl-card__label">Syllabus</span>
     <h3>Mathematics for Data Science</h3>
     <p>The syllabus for the Mathematics for Data Science course, setting out the topics it reviews and expands on.</p>
-    <!-- TODO: add assets/syllabi/mathematics-for-data-science-2026.pdf, then activate by replacing the span below with:
-         <a class="btn" href="{{ '/assets/syllabi/mathematics-for-data-science-2026.pdf' | relative_url }}">Open syllabus (PDF)</a> -->
-    <div class="dsl-card__foot"><span style="opacity:.55;font-weight:600">Coming soon</span></div>
+    <!-- DUMMY: placeholder PDF for workflow mock-up; replace with the real syllabus -->
+    <div class="dsl-card__foot"><a class="btn" href="{{ '/assets/syllabi/mathematics-for-data-science-2026.pdf' | relative_url }}">Open syllabus (PDF)</a></div>
   </li>
   <li class="dsl-card">
     <span class="dsl-card__label">Book - free online</span>
@@ -57,11 +56,12 @@ These are the materials **featured on your course syllabi** - the books and refe
     <p>The core reference featured in the IDS syllabus. A practical, hands-on introduction to data science in R - free to read online.</p>
     <div class="dsl-card__foot"><a class="btn" href="https://r4ds.hadley.nz/">Read online</a></div>
   </li>
-  <!-- TODO: 1–2 additional essential resources from Asya / Jan -->
+  <!-- DUMMY: placeholder resource for workflow mock-up; replace with Asya/Jan picks -->
   <li class="dsl-card">
-    <span class="dsl-card__label">More to come</span>
-    <h3>Further essential reading</h3>
-    <p>A couple more core resources will be added here shortly - check back before the programme begins.</p>
+    <span class="dsl-card__label">Recommended reading</span>
+    <h3>An Introduction to Statistical Learning</h3>
+    <p>A widely used, beginner-friendly introduction to statistical learning - free to read online. (Placeholder example.)</p>
+    <div class="dsl-card__foot"><a class="btn" href="https://www.statlearning.com/">Read online</a></div>
   </li>
 </ul>
 
