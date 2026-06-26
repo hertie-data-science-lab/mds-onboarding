@@ -70,8 +70,8 @@ You have access to a **premium Brilliant classroom** with structured content cov
     <h3>Mathematics for Data Science</h3>
     <p>Recommended order:</p>
     <ul style="list-style:disc;margin:.35em 0 1.4em 1.25em;padding:0">
-      <li>Calculus in a Nutshell → Calculus Fundamentals → Integral Calculus → Multivariable Calculus</li>
-      <li>Introduction to Linear Algebra → Linear Algebra with Applications</li>
+      <li><a href="https://brilliant.org/courses/math-fundamentals/">Math Fundamentals</a> → <a href="https://brilliant.org/courses/calculus-nutshell/">Calculus in a Nutshell</a> → <a href="https://brilliant.org/courses/infinity/">Infinity</a></li>
+      <li><a href="https://brilliant.org/courses/vectors/">Vectors</a></li>
     </ul>
     <div class="dsl-card__foot"><a class="btn" href="{{ site.brilliant_join_url }}">Access class</a></div>
   </li>
@@ -80,9 +80,8 @@ You have access to a **premium Brilliant classroom** with structured content cov
     <h3>Statistics for Data Science</h3>
     <p>Recommended order:</p>
     <ul style="list-style:disc;margin:.35em 0 1.4em 1.25em;padding:0">
-      <li>Probability Fundamentals → Applied Probability → Random Variables &amp; Distributions</li>
-      <li>Statistics Fundamentals → Statistics I</li>
-      <li>Perplexing Probability - an optional, fun course</li>
+      <li><a href="https://brilliant.org/courses/probability-fundamentals/">Probability Fundamentals</a> → <a href="https://brilliant.org/courses/winning-with-probability/">Winning with Probability</a> → <a href="https://brilliant.org/courses/probabilistic-prediction/">Probabilistic Prediction</a></li>
+      <li><a href="https://brilliant.org/courses/knowledge-and-uncertainty/">Knowledge and Uncertainty</a> → <a href="https://brilliant.org/courses/explaining-variation/">Explaining Variation</a></li>
     </ul>
     <div class="dsl-card__foot"><a class="btn" href="{{ site.brilliant_join_url }}">Access class</a></div>
   </li>
