@@ -65,7 +65,7 @@ You have access to a **premium Brilliant classroom** with structured content cov
     <span class="dsl-card__label">Brilliant classroom</span>
     <h3>Mathematics for Data Science</h3>
     <p>Recommended order:</p>
-    <ul>
+    <ul style="list-style:disc;margin:.35em 0 1.4em 1.25em;padding:0">
       <li>Calculus in a Nutshell → Calculus Fundamentals → Integral Calculus → Multivariable Calculus</li>
       <li>Introduction to Linear Algebra → Linear Algebra with Applications</li>
     </ul>
@@ -75,7 +75,7 @@ You have access to a **premium Brilliant classroom** with structured content cov
     <span class="dsl-card__label">Brilliant classroom</span>
     <h3>Statistics for Data Science</h3>
     <p>Recommended order:</p>
-    <ul>
+    <ul style="list-style:disc;margin:.35em 0 1.4em 1.25em;padding:0">
       <li>Probability Fundamentals → Applied Probability → Random Variables &amp; Distributions</li>
       <li>Statistics Fundamentals → Statistics I</li>
       <li>Perplexing Probability - an optional, fun course</li>
