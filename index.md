@@ -83,14 +83,14 @@ As an MDS student you also receive **premium licences for two self-learning plat
   <li class="dsl-card">
     <span class="dsl-card__label">Programming</span>
     <h3>DataQuest</h3>
-    <p>Interactive, real-world coding challenges in Python and R. See the programming guide for recommended paths.</p>
-    <div class="dsl-card__foot"><a class="btn btn--ghost" href="{{ '/programming/' | relative_url }}">Programming guide</a></div>
+    <p>Interactive, real-world coding challenges in Python and R. See the <a href="{{ '/programming/' | relative_url }}">programming guide</a> for recommended paths.</p>
+    <div class="dsl-card__foot"><a class="btn btn--ghost" href="https://www.dataquest.io/">Open DataQuest</a></div>
   </li>
   <li class="dsl-card">
     <span class="dsl-card__label">Mathematics</span>
     <h3>Brilliant</h3>
-    <p>Structured, visual courses covering the core mathematics for data science. See the mathematics guide for a recommended order.</p>
-    <div class="dsl-card__foot"><a class="btn btn--ghost" href="{{ '/mathematics/' | relative_url }}">Mathematics guide</a></div>
+    <p>Structured, visual courses covering the core mathematics for data science. See the <a href="{{ '/mathematics/' | relative_url }}">mathematics guide</a> for a recommended order.</p>
+    <div class="dsl-card__foot"><a class="btn btn--ghost" href="{{ site.brilliant_join_url }}">Open Brilliant</a></div>
   </li>
 </ul>
 
