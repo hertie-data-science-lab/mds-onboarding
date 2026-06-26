@@ -19,19 +19,14 @@ This preparation package gathers the materials your first-year courses are built
 
 Before teaching begins, the **summer bootcamp** brings everyone up to a common baseline and is the clearest picture of where your courses start from.
 
-<!-- DUMMY: placeholder blurb for workflow mock-up; replace with the real bootcamp description -->
-
-**NB PLACEHOLDER TEXT BELOW:** 
-
-Over 1 week it covers the essentials you will lean on from day one: working in R, data wrangling and visualisation. Sessions pair short lectures with hands-on labs, so you arrive already comfortable with the tools. 
+It runs through the essentials you'll lean on from day one: setting up R and RStudio, the basics of base R (objects, vectors, functions and dataframes), version control with Git, data visualisation with **ggplot2**, and data wrangling with **dplyr** - plus a first look at vectors and matrices that feeds straight into Mathematics for Data Science. Teaching pairs short lectures with hands-on labs on real datasets, all geared towards preparing you for the Introduction to Data Science course.
 
 <ul class="card-grid card-grid--2">
   <li class="dsl-card">
     <span class="dsl-card__label">Bootcamp</span>
     <h3>Summer bootcamp materials</h3>
     <p>Last year's materials give a good sense of the topics covered and the level expected.</p>
-    <!-- DUMMY: placeholder link for workflow mock-up; replace with the real materials URL -->
-    <div class="dsl-card__foot"><a class="btn" href="{{ '/assets/bootcamp/summer-bootcamp-2025-materials.pdf' | relative_url }}">View materials</a></div>
+    <div class="dsl-card__foot"><a class="btn" href="https://github.com/hertie-data-science-lab/R-bootcamp-summer-2025">View materials</a></div>
   </li>
 </ul>
 
