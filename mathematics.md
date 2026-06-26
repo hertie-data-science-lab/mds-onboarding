@@ -7,6 +7,19 @@ title: Mathematics
 In your first semester you will take **Mathematics for Data Science**, covering the mathematical pillars essential for the field: **linear algebra, probability theory, statistics and optimisation**. Note that the course is **not** an introduction to these disciplines, but a review and expansion of their core concepts for application in modern machine learning and deep learning.
 </div>
 
+For the full picture of what the course covers and assumes, see the syllabus — a good way to gauge how much of the preparation below you'll want to focus on.
+
+<ul class="card-grid card-grid--2">
+  <li class="dsl-card">
+    <span class="dsl-card__label">Syllabus</span>
+    <h3>Mathematics for Data Science</h3>
+    <p>The topics the course reviews and expands on, and what it assumes you arrive with.</p>
+    <!-- TODO: add assets/syllabi/mathematics-for-data-science-2026.pdf, then activate by replacing the span below with:
+         <a class="btn" href="{{ '/assets/syllabi/mathematics-for-data-science-2026.pdf' | relative_url }}">Open syllabus (PDF)</a> -->
+    <div class="dsl-card__foot"><span style="opacity:.55;font-weight:600">Coming soon</span></div>
+  </li>
+</ul>
+
 ## Is it necessary to learn maths for data science?
 
 Modern libraries let you build models with very little maths — but a strong theoretical foundation is what lets you develop intuition, quickly grasp new methods, and understand fundamental research. Think of it as three layers:
