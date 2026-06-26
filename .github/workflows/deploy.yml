@@ -1,4 +1,4 @@
-name: Deploy onboarding site
+name: Deploy site
 
 on:
   push:
@@ -31,7 +31,7 @@ jobs:
 
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.2"
+          ruby-version: .ruby-version
           bundler-cache: true
 
       - name: Build site
