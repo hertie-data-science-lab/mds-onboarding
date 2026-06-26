@@ -44,6 +44,11 @@ A strong theoretical foundation in mathematics helps you cultivate the intuition
 
 Everyone learns differently. Both of these approaches work - pick whichever suits you, or mix them.
 
+<style>
+  .approach { transition: box-shadow .15s ease, transform .15s ease; }
+  .approach:hover { box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08); transform: translateY(-2px); }
+</style>
+
 <div class="two-approaches">
   <div class="approach">
     <div class="approach__tag">Theories then practice</div>
