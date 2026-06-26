@@ -4,7 +4,7 @@ title: Programming
 ---
 
 <div class="dsl-hero" markdown="1">
-The MDS programme teaches you to work in **both R and Python**, the two languages at the heart of modern data science. Your first-year courses — **Introduction to Data Science** in particular — assume a working baseline in both, so the goal before you arrive is to get comfortable with the fundamentals. This page explains *why both*, what's expected, and how to prepare.
+The MDS programme teaches you to work in **both R and Python**, the two languages at the heart of modern data science. Your first-year courses - **Introduction to Data Science** in particular - assume a working baseline in both, so the goal before you arrive is to get comfortable with the fundamentals. This page explains *why both*, what's expected, and how to prepare.
 </div>
 
 ## Why R and Python?
@@ -13,7 +13,7 @@ A question that comes up often is why the MDS programme focuses on **two** progr
 
 <ul class="card-grid">
   <li class="dsl-card">
-    <p><strong>R is still superior for statistics.</strong> It remains the stronger language for building statistical models, with a robust ecosystem of packages maintained by scientists and statisticians — an area where Python still lags.</p>
+    <p><strong>R is still superior for statistics.</strong> It remains the stronger language for building statistical models, with a robust ecosystem of packages maintained by scientists and statisticians - an area where Python still lags.</p>
   </li>
   <li class="dsl-card">
     <p><strong>It depends where you want to work.</strong> Python is the desired language for industry roles, but for government agencies, research foundations, think tanks, international organisations or academia, R (and Excel) is still the go-to tool. Being proficient in both gives you the best exposure to the job market and the ability to work in and manage cross-language teams.</p>
@@ -25,7 +25,7 @@ A question that comes up often is why the MDS programme focuses on **two** progr
 
 ## What's expected
 
-The clearest picture of what your courses assume is the **Introduction to Data Science syllabus** — it sets out what the course covers and the resources it draws on. A standout among them is **R for Data Science (2e)**, a practical, free-to-read introduction that's well worth starting before you arrive.
+The clearest picture of what your courses assume is the **Introduction to Data Science syllabus** - it sets out what the course covers and the resources it draws on. A standout among them is **R for Data Science (2e)**, a practical, free-to-read introduction that's well worth starting before you arrive.
 
 <ul class="card-grid card-grid--2">
   <li class="dsl-card">
@@ -35,18 +35,18 @@ The clearest picture of what your courses assume is the **Introduction to Data S
     <div class="dsl-card__foot"><a class="btn" href="{{ '/assets/syllabi/C11_E1339_IntroDataScience_Fall_2026.pdf' | relative_url }}">Open syllabus (PDF)</a></div>
   </li>
   <li class="dsl-card">
-    <span class="dsl-card__label">Book — free online</span>
+    <span class="dsl-card__label">Book - free online</span>
     <h3>R for Data Science (2e)</h3>
-    <p>The core R reference featured in the IDS syllabus — free to read online.</p>
+    <p>The core R reference featured in the IDS syllabus - free to read online.</p>
     <div class="dsl-card__foot"><a class="btn" href="https://r4ds.hadley.nz/">Read online</a></div>
   </li>
 </ul>
 
 ## Practising with DataQuest
 
-As part of your MDS education you have access to a **premium DataQuest account** — a self-learning platform with real-world coding challenges to help you build technical skills effectively. It will accompany and complement your in-class training throughout the programme, and it's the best way to get your Python and R up to the level the first-year courses assume.
+As part of your MDS education you have access to a **premium DataQuest account** - a self-learning platform with real-world coding challenges to help you build technical skills effectively. It will accompany and complement your in-class training throughout the programme, and it's the best way to get your Python and R up to the level the first-year courses assume.
 
-DataQuest is organised into **learning paths**. Three are most relevant to you — we recommend starting with **Data Scientist in Python** and **Data Analyst in R** to refresh the essential foundational coding skills before the semester begins.
+DataQuest is organised into **learning paths**. Three are most relevant to you - we recommend starting with **Data Scientist in Python** and **Data Analyst in R** to refresh the essential foundational coding skills before the semester begins.
 
 <ul class="card-grid">
   <li class="dsl-card">
@@ -58,7 +58,7 @@ DataQuest is organised into **learning paths**. Three are most relevant to you �
   <li class="dsl-card">
     <span class="dsl-card__label">Recommended</span>
     <h3>Data Analyst in R</h3>
-    <p>R foundations for data analysis — useful from day one of the programme.</p>
+    <p>R foundations for data analysis - useful from day one of the programme.</p>
     <div class="dsl-card__foot"><a class="btn" href="https://app.dataquest.io/path/data-analyst-r">View path</a></div>
   </li>
   <li class="dsl-card">

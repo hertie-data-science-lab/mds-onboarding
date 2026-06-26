@@ -1,7 +1,7 @@
 name: PR build check
 
 # Correctness gate: build the site (with the shared remote_theme) on every PR and
-# fail if it doesn't compile. Does NOT deploy — production Pages only updates on
+# fail if it doesn't compile. Does NOT deploy - production Pages only updates on
 # merge to main. Catches broken Liquid/SCSS or an unreachable theme before merge.
 
 on:
@@ -22,7 +22,7 @@ jobs:
 
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.2"
+          ruby-version: .ruby-version
           bundler-cache: true
 
       - name: Build site with shared theme
