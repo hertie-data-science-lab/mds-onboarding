@@ -26,8 +26,9 @@ theme (layout, colours, components) is inherited from the shared
 
 **Yearly updates** live at the top of `_config.yml`:
 
-- `brilliant_join_url` - the Brilliant classroom invite (covers both Maths and Statistics
-  courses). Confirm the current cohort's invite before publishing.
+- `brilliant_join_url` - the Brilliant link for both the Maths and Statistics cards.
+  Currently the public course catalogue (no login). Swap in the current cohort's
+  classroom invite (`.../classroom/join-v2/<id>`) to give students free Premium.
 - `course_semester` - e.g. `2026 Entry`.
 
 ## Local preview
