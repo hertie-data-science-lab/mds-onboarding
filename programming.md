@@ -73,7 +73,7 @@ DataQuest is organised into **learning paths**. Three are most relevant to you -
 
 If you are **not yet confident** with your Python, please complete **Part 1: Python Introduction** of the *Data Scientist in Python* path on DataQuest before the new semester.
 
-If you **already know** everything in Part 1, start on **Part 2 and Part 3** instead. **Data visualisation** and **data cleaning** will be essential in your Machine Learning class. Continue with the subsequent parts during your studies at Hertie to complement what you learn in class.
+For **Parts 2 & 3**, **data visualisation** and **data cleaning** will be essential in your Machine Learning class. Continue with the subsequent parts during your studies at Hertie to complement what you learn in class.
 
 ### R fundamentals
 

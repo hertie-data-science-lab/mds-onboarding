@@ -106,5 +106,5 @@ During or after your maths review, we highly recommend watching the **"Essence o
 </ul>
 
 <div class="callout" markdown="1">
-Prefer other formats, or want more practice? The optional [Further resources]({{ '/resources/' | relative_url }}) page lists a few extras - but everything you need is already on this page and in Brilliant.
+If you prefer other formats, want more practice, or just want to explore further, the optional [Further resources]({{ '/resources/' | relative_url }}) page lists a few extras - but everything you need to arrive prepared is already on this page.
 </div>
