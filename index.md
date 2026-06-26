@@ -29,7 +29,7 @@ Over 1 week it covers the essentials you will lean on from day one: working in R
   <li class="dsl-card">
     <span class="dsl-card__label">Bootcamp</span>
     <h3>Summer bootcamp materials</h3>
-    <p>`Last` year's materials give a good sense of the topics covered and the level expected.</p>
+    <p>Last year's materials give a good sense of the topics covered and the level expected.</p>
     <!-- DUMMY: placeholder link for workflow mock-up; replace with the real materials URL -->
     <div class="dsl-card__foot"><a class="btn" href="{{ '/assets/bootcamp/summer-bootcamp-2025-materials.pdf' | relative_url }}">View materials</a></div>
   </li>
