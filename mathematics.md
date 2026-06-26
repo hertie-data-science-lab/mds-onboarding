@@ -7,7 +7,7 @@ title: Mathematics
 In your first semester you will take **Mathematics for Data Science**, covering the mathematical pillars essential for the field: **linear algebra, probability theory, statistics and optimisation**. Note that the course is **not** an introduction to these disciplines, but a review and expansion of their core concepts for application in modern machine learning and deep learning.
 </div>
 
-For the full picture of what the course covers and assumes, see the syllabus — a good way to gauge how much of the preparation below you'll want to focus on.
+For the full picture of what the course covers and assumes, see the syllabus - a good way to gauge how much of the preparation below you'll want to focus on.
 
 <ul class="card-grid card-grid--2">
   <li class="dsl-card">
@@ -22,7 +22,7 @@ For the full picture of what the course covers and assumes, see the syllabus —
 
 ## Is it necessary to learn maths for data science?
 
-Modern libraries let you build models with very little maths — but a strong theoretical foundation is what lets you develop intuition, quickly grasp new methods, and understand fundamental research. Think of it as three layers:
+Modern libraries let you build models with very little maths - but a strong theoretical foundation is what lets you develop intuition, quickly grasp new methods, and understand fundamental research. Think of it as three layers:
 
 <div class="math-pyramid">
   <div class="tier tier--1">
@@ -43,7 +43,7 @@ A strong theoretical foundation in mathematics helps you cultivate the intuition
 
 ## Two ways to approach maths
 
-Everyone learns differently. Both of these approaches work — pick whichever suits you, or mix them.
+Everyone learns differently. Both of these approaches work - pick whichever suits you, or mix them.
 
 <div class="two-approaches">
   <div class="approach">
@@ -78,7 +78,7 @@ You have access to a **premium Brilliant classroom** with structured content cov
     <ul>
       <li>Probability Fundamentals → Applied Probability → Random Variables &amp; Distributions</li>
       <li>Statistics Fundamentals → Statistics I</li>
-      <li>Perplexing Probability — an optional, fun course</li>
+      <li>Perplexing Probability - an optional, fun course</li>
     </ul>
     <div class="dsl-card__foot"><a class="btn" href="{{ site.brilliant_join_url }}">Access class</a></div>
   </li>
@@ -102,5 +102,5 @@ During or after your maths review, we highly recommend watching the **"Essence o
 </ul>
 
 <div class="callout" markdown="1">
-Prefer other formats, or want more practice? The optional [Further resources]({{ '/resources/' | relative_url }}) page lists a few extras — but everything you need is already on this page and in Brilliant.
+Prefer other formats, or want more practice? The optional [Further resources]({{ '/resources/' | relative_url }}) page lists a few extras - but everything you need is already on this page and in Brilliant.
 </div>

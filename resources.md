@@ -6,14 +6,14 @@ title: Further resources
 <div class="callout callout--muted" markdown="1">
 **Everything you need is already provided** through DataQuest and Brilliant (and the
 3Blue1Brown series on the [Mathematics]({{ '/mathematics/' | relative_url }}) page).
-The links below are entirely **optional** — included only because everyone learns
+The links below are entirely **optional** - included only because everyone learns
 differently and you may prefer a different format or some extra practice. There is no
 expectation that you work through them.
 </div>
 
 Everybody learns in a different way, especially in maths. If you prefer video lectures, or
 want more exercises and other styles of learning, the resources below may help. It is
-usually a *combination* of resources that works best — feel free to experiment and see what
+usually a *combination* of resources that works best - feel free to experiment and see what
 suits you.
 
 ## By topic
@@ -70,19 +70,19 @@ suits you.
 
 <ul class="resource-list">
   <li>
-    <span class="resource-list__name">Khan Academy</span> — a comprehensive, free resource for furthering your knowledge of complex mathematical concepts.
+    <span class="resource-list__name">Khan Academy</span> - a comprehensive, free resource for furthering your knowledge of complex mathematical concepts.
     <span class="resource-list__links"><a href="https://www.khanacademy.org/math/">Visit</a></span>
   </li>
   <li>
-    <span class="resource-list__name">MIT OpenCourseWare</span> — one of the most useful resources for learning anything technical, for dedicated self-learners. Each course takes time; if you are short on it, read the course notes, which explain most of the lectures in detail.
+    <span class="resource-list__name">MIT OpenCourseWare</span> - one of the most useful resources for learning anything technical, for dedicated self-learners. Each course takes time; if you are short on it, read the course notes, which explain most of the lectures in detail.
     <span class="resource-list__links"><a href="https://ocw.mit.edu/index.htm">Visit</a></span>
   </li>
   <li>
-    <span class="resource-list__name">TrevTutor</span> — short-form videos summarising basic concepts in linear algebra, calculus and discrete mathematics.
+    <span class="resource-list__name">TrevTutor</span> - short-form videos summarising basic concepts in linear algebra, calculus and discrete mathematics.
     <span class="resource-list__links"><a href="https://www.youtube.com/c/Trevtutor/playlists">Visit</a></span>
   </li>
   <li>
-    <span class="resource-list__name">StatQuest</span> — breaks down complicated statistics and machine-learning methods into small, bite-sized pieces that are easy to understand.
+    <span class="resource-list__name">StatQuest</span> - breaks down complicated statistics and machine-learning methods into small, bite-sized pieces that are easy to understand.
     <span class="resource-list__links"><a href="https://www.youtube.com/c/joshstarmer/playlists">Visit</a></span>
   </li>
 </ul>
