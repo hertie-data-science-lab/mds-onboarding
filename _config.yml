@@ -5,7 +5,7 @@
 # Content lives in the page files; per-cohort values are below.
 
 # --- Shared theme ---
-remote_theme: hertie-data-science-lab/dsl-jekyll-theme
+remote_theme: hertie-data-science-lab/dsl-jekyll-theme@v2.0.0
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
